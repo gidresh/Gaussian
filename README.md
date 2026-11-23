@@ -1,13 +1,13 @@
 # Gaussian Elimination
 
-## AIM:
+### AIM:
 To write a program to find the solution of a matrix using Gaussian Elimination.
 
-## Equipments Required:
+### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
-## Algorithm
+### Algorithm
 1.Input matrix dimensions and initialize augmented matrix and solution vector. 
 2. Populate the augmented matrix with user inputs.
 3.Perform Gaussian elimination to reduce the matrix to upper triangular form, ensuring no division by zero. 
@@ -45,7 +45,7 @@ for i in range(n-2,-1,-1):
     x[i]=x[i]/a[i][i]
 for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end=' ')
-~~~       
+```     
 
 ### Output:
 
