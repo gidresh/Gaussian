@@ -48,10 +48,10 @@ for i in range(n):
 ~~~       
 
 ## Output:
-~~~
+
 <img width="858" height="675" alt="{FA3C5F55-4319-460A-8BCF-55BF69035AE9}" src="https://github.com/user-attachments/assets/327bc387-5ec8-43d1-bb4b-dfcc4accc102" />
 <img width="1129" height="517" alt="{F8AE53F4-612D-4F96-860F-5622108B8FD7}" src="https://github.com/user-attachments/assets/86e1629e-d531-44a2-8d7a-e0539d2c0c93" />
-~~~
+
 
 
 ## Result:
