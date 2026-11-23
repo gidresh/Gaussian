@@ -13,7 +13,7 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 3.Perform Gaussian elimination to reduce the matrix to upper triangular form, ensuring no division by zero. 
 4.Back substitute to compute solution values for the variables. 
 5.Print the solution vector formatted to two decimal places.
-## Program:
+### Program:
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
@@ -47,7 +47,7 @@ for i in range(n):
     print('X%d = %0.2f'%(i,x[i]),end=' ')
 ~~~       
 
-## Output:
+### Output:
 
 <img width="858" height="675" alt="{FA3C5F55-4319-460A-8BCF-55BF69035AE9}" src="https://github.com/user-attachments/assets/327bc387-5ec8-43d1-bb4b-dfcc4accc102" />
 <img width="1129" height="517" alt="{F8AE53F4-612D-4F96-860F-5622108B8FD7}" src="https://github.com/user-attachments/assets/86e1629e-d531-44a2-8d7a-e0539d2c0c93" />
